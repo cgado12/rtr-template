@@ -6,7 +6,7 @@ Starting the App:
     3) `npm start` from root directory, to start the app
 
 - - - -
-![Alt Text] (src/assets/rtrTemp-githubRM.gif)
+![Demo](./src/assets/rtrTemp-githubRM.gif)
 
 
 This is a web app foundation template to bootstrap the initial creation of a react-typescript-router-dom project. The application showcases router functionality by utilizing a navigation bar across the top of the window. This is implemented with react-bootstrap!
