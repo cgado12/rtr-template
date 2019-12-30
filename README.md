@@ -1,9 +1,9 @@
 # React-Typescript-Router Template
 
 Starting the App: 
-    1) clone or download the repo
-    2) `npm install` from the root directory
-    3) `npm start` from root directory, to start the app
+1) clone or download the repo
+2) npm install from the root directory
+3) npm start from root directory, to start the app
 
 - - - -
 ![Demo](./src/assets/rtrTemp-githubRM.gif)
